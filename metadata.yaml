@@ -1,0 +1,35 @@
+_repo: Forests-of-MaineMarco-Paul-s-Adventures-in-Pursuit-of-Knowledge_24831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Erodore
+    - Marianne
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2008-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'F001'
+- !lcsh 'Logging -- Maine -- Juvenile literature'
+- !lcsh 'Forests and forestry -- Maine -- Juvenile literature'
+- !lcsh 'Maine -- Description and travel -- Juvenile literature'
+title: 'Forests of Maine
+
+  Marco Paul''s Adventures in Pursuit of Knowledge'
+url: http://www.gutenberg.org/ebooks/24831
